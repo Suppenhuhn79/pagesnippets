@@ -1,5 +1,11 @@
 # pageSnippets
 
+----
+
+**This repository is DISCONTINUED. The active version can be found at https://github.com/chzager/pagesnippets**
+
+----
+
 pageSnippets is a JavaScript tool for dynamically and easily creating complex HTML or XML. Outsource parts of your big and confusing HTML and generate them on demand. No more need for messy nested ~~`document.createElement()`~~, just code your HTML and **`produce()`** the snippets.
 
 [![ECMAScript6](https://img.shields.io/badge/ECMAScript-6-0066ff)](#)\
